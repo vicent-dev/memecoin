@@ -1,7 +1,3 @@
-package memecoin
+package main
 
-import "fmt"
-
-func main() {
-	fmt.Println("stonks")
-}
+func main() {}
